@@ -997,7 +997,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 <summary><h3 style="display:inline">Calendar & Scheduling</h3></summary>
 
 - [accli](https://clawskills.sh/skills/joargp-accli) - This skill should be used when interacting with Apple Calendar on macOS.
-- [accli-plus](https://clawskills.sh/skills/gopaljigaur-accli-plus) - Extended Apple Calendar CLI for macOS — adds search, export, dry-run, recurring events, alerts, and full error codes on top of accli.
+- [accli-plus](https://clawhub.ai/gopaljigaur/accli-plus) - Extended Apple Calendar CLI for macOS — adds search, export, dry-run, recurring events, alerts, and full error codes on top of accli.
 - [advanced-calendar](https://clawskills.sh/skills/toughworm-advanced-calendar) - Advanced calendar skill with natural language.
 - [agency-guardian](https://clawskills.sh/skills/aranej-agency-guardian) - Gentle reminders to stay human while using AI.
 - [agent-tinman](https://clawskills.sh/skills/oliveskin-agent-tinman) - AI security scanner with active prevention - 168 detection.
