@@ -628,7 +628,8 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [agent-selfie](https://clawskills.sh/skills/iisweetheartii-agent-selfie) - AI agent self-portrait generator.
 - [agent-sentinel](https://clawskills.sh/skills/jimmystacks-agent-sentinel) - The operational circuit breaker for this agent.
 
-> **[View all 184 skills in AI & LLMs →](categories/ai-and-llms.md)**
+- [agentbase](https://github.com/openclaw/skills/tree/main/skills/revmischa/agentbase/SKILL.md) - Shared knowledge base for AI agents via MCP.
+> **[View all 185 skills in AI & LLMs →](categories/ai-and-llms.md)**
 </details>
 
 <details>
